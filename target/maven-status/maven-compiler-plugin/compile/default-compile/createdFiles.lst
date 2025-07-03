@@ -1,0 +1,6 @@
+com/springk/apidemos/Dao/User.class
+com/springk/apidemos/Repository/UserRepository.class
+com/springk/apidemos/Service/UserService.class
+com/springk/apidemos/ApidemosApplication.class
+com/springk/apidemos/Controller/DemoAPi.class
+com/springk/apidemos/Controller/LoginController.class
